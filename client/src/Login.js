@@ -145,14 +145,14 @@ export default function Login() {
         </div>
   
         {/* New section for signup with social media */}
-        <div class="social-media-section">
+        {/* <div class="social-media-section">
           <p style={{fontWeight:"bold", fontSize:"2.2em"}}>Or sign up/in with:</p>
           <div class="social-media-buttons">
             <button class="google-button">Google</button>
             <button class="linkedin-button">LinkedIn</button>
             <button class="github-button">GitHub</button>
           </div>
-        </div>
+        </div> */}
   
       </div>
       <div class="image-container">

@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-// uri = "mongodb+srv://snappylaxmikant:Animes123@cluster0.eipb4s1.mongodb.net/Cluster0?retryWrites=true&w=majority";
+uri = "mongodb+srv://snappylaxmikant:Animes123@cluster0.eipb4s1.mongodb.net/Cluster0?retryWrites=true&w=majority";
 
 
 
